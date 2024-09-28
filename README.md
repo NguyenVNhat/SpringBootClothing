@@ -1,4 +1,4 @@
-ERD  
+
 # Bảng thư mục
 
 | Nội dung | Thư mục            | Tên file                           |
